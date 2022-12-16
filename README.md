@@ -1,4 +1,4 @@
-# Rainydays
+# Community Science Museum - Semester Project 1
 
 ![image](/images/community-science-museum_homepage.jpg)
 
