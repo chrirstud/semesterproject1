@@ -8,6 +8,12 @@ A webshop where you can buy jackets for all kinds of weather and conditions.
 
 ## Description
 
+A webpage for a museum where the aim is to create a space where everyone can experience the wonders of theyr discoveries and perhaps even ignite a lifelong passion to continue the exploration of the world around us.
+
+- Home - homepage with intro and links to "Explore"- and "Visit"-page.
+- Explore - page with info about the museums goals and offerings.
+- Visit - page with opening hours, loaction and facilities.
+- Contact - information and form.
 
 ## Built With
 
